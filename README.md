@@ -19,9 +19,6 @@
   ## Contributed
   This was a solo project  
 
-  ## Tested
-   By reviewing the code to confirm that it is written properly 
-
   ## Questions 
    Please do not hesitate to ask 
 
