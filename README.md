@@ -10,7 +10,7 @@
      * [License](#License)
      
   ## Description
-  To clean up the code so that it dry and nothing is repeated, primarly in the css. It is best to use groups when mutiple parts of the code have the same elements rather then repeat the same code throughout the css file. 
+  To clean up the code so that it is not dry and nothing is repeated, primarly in the css. It is best to use groups when mutiple parts of the code have the same elements rather then repeat the same code throughout the css file. 
 
   ## license 
    MIT
@@ -22,8 +22,8 @@
   ## Questions 
    Please do not hesitate to ask 
 
-  ## Username
-  julia.horan28@gmail.com
+  ## Github username 
+  Juliafrances28 
 
   ## Email 
   julia.horan28@gmail.com
