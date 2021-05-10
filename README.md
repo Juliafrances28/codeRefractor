@@ -10,7 +10,7 @@
      * [License](#License)
      
   ## Description
-  To clean up the code so that it is not dry and nothing is repeated, primarly in the css. It is best pratice to use groups when mutiple parts of the code have the same elements rather then repeat the same code throughout the css file. 
+  To clean up the code so that it is dry. This means that nothing is repeated, primarly in the css. It is best pratice to assign an Id when applying the same styling to mutiple elements. The Id can be applied to mutiple elements so that code will not be repeated throughout the css file. 
 
   ## license 
    MIT
